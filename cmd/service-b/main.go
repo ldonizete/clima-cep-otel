@@ -5,8 +5,8 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/lucasdonizete/clima-cep-otel/internal/app"
-	"github.com/lucasdonizete/clima-cep-otel/internal/weathersvc"
+	"github.com/ldonizete/clima-cep-otel/internal/app"
+	"github.com/ldonizete/clima-cep-otel/internal/weathersvc"
 )
 
 func main() {

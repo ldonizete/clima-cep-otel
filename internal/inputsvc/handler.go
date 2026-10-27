@@ -8,7 +8,7 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/lucasdonizete/clima-cep-otel/internal/cep"
+	"github.com/ldonizete/clima-cep-otel/internal/cep"
 )
 
 const maxBodyBytes = 1 << 20

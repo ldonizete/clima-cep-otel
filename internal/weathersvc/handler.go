@@ -8,7 +8,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/lucasdonizete/clima-cep-otel/internal/cep"
+	"github.com/ldonizete/clima-cep-otel/internal/cep"
 )
 
 // LocationFinder resolves a CEP to a city name.

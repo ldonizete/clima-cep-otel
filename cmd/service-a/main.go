@@ -7,8 +7,8 @@ import (
 
 	"go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp"
 
-	"github.com/lucasdonizete/clima-cep-otel/internal/app"
-	"github.com/lucasdonizete/clima-cep-otel/internal/inputsvc"
+	"github.com/ldonizete/clima-cep-otel/internal/app"
+	"github.com/ldonizete/clima-cep-otel/internal/inputsvc"
 )
 
 func main() {

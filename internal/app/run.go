@@ -13,7 +13,7 @@ import (
 
 	"go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp"
 
-	"github.com/lucasdonizete/clima-cep-otel/internal/telemetry"
+	"github.com/ldonizete/clima-cep-otel/internal/telemetry"
 )
 
 // Run starts handler on addr, instrumented as serviceName, and blocks until

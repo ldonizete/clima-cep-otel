@@ -1,4 +1,4 @@
-module github.com/lucasdonizete/clima-cep-otel
+module github.com/ldonizete/clima-cep-otel
 
 go 1.26.0
 
